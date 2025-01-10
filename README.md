@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Barathi Kanna Saminathan
 
 ## About Me
-I'm a passionate tech enthusiast with a love for building innovative solutions that solve real-world problems. With over three years of experience in data engineering and software development, I specialize in creating scalable, efficient systems that empower businesses to thrive. Currently pursuing a Master’s in **Artificial Intelligence and Machine Learning** at the **University of Birmingham**, I am on a journey to explore how technology can transform industries and improve lives.
+I'm a passionate tech enthusiast with a love for building innovative solutions that solve real world problems. With over three years of experience in data engineering and software development, I specialize in creating scalable, efficient systems that empower businesses to thrive. Currently pursuing a Master’s in **Artificial Intelligence and Machine Learning** at the **University of Birmingham**, I am on a journey to explore how technology can transform industries and improve lives.
 
 ## 🌟 My Tech Stack
 - **Programming Languages:** Python, C++, SQL, Unix, Oracle SQL
