@@ -4,20 +4,20 @@
 I'm a passionate tech enthusiast with a love for building innovative solutions that solve real world problems. With over three years of experience in data engineering and software development, I specialize in creating scalable, efficient systems that empower businesses to thrive. Currently pursuing a Master’s in **Artificial Intelligence and Machine Learning** at the **University of Birmingham**, I am on a journey to explore how technology can transform industries and improve lives.
 
 ## My Tech Stack
-•	**Programming Languages:** Python, C++, Linux shell, Oracle SQL, SQL
-•	**Data Engineering:** Kafka, Elasticsearch, Logstash, Kibana, Grafana, Prometheus
-•	**Database:** Oracle, SQL server
-•	**Cloud Infrastructure:** AWS (EC2, S3, RDS), Azure Cognitive Services, Terraform, Ansible Tech Stack: Jira, OEM, Ansible, Terraform, Power BI
-•	**Research Interests:** Speech Foundation Models, Agent-based Systems, Causality, Al Explainability
-•	**Machine Learning & AI:** LLMs (Ollama–LLaMA), LangChain, DiCE, SHAP, LIME, Scikit-learn, XGBoost, NLP, TTS, Neural Networks, Tensorflow
-•	**Vector Databases & RAG:** ChromaDB, FAISS, Nomic Embeddings
-•	**Document & Data Parsing:** PyPDF, CSVLoader, PDFMiner, data wrangling
-•	**Visualization:** Streamlit, Power BI, Matplotlib, Seaborn
-•	**Other:** Jira, Agile/Scrum, SDLC, DevOps CI/CD
+- **Programming Languages:** Python, C++, Linux shell, Oracle SQL, SQL
+- **Data Engineering:** Kafka, Elasticsearch, Logstash, Kibana, Grafana, Prometheus
+- **Database:** Oracle, SQL server
+- **Cloud Infrastructure:** AWS (EC2, S3, RDS), Azure Cognitive Services, Terraform, Ansible Tech Stack: Jira, OEM, Ansible, Terraform, Power BI
+- **Research Interests:** Speech Foundation Models, Agent-based Systems, Causality, Al Explainability
+- **Machine Learning & AI:** LLMs (Ollama–LLaMA), LangChain, DiCE, SHAP, LIME, Scikit-learn, XGBoost, NLP, TTS, Neural Networks, Tensorflow
+- **Vector Databases & RAG:** ChromaDB, FAISS, Nomic Embeddings
+- **Document & Data Parsing:** PyPDF, CSVLoader, PDFMiner, data wrangling
+- **Visualization:** Streamlit, Power BI, Matplotlib, Seaborn
+- **Other:** Jira, Agile/Scrum, SDLC, DevOps CI/CD
 
 
 ## My Projects & Achievements
-###Projects
+Projects
 - **Churn360-Ecommounication: A Multimodal Explainable AI Framework for E-commerce Customer Churn Prediction**
 	-Designed an AI solution to predict which customers are likely to leave by analysing purchase behaviour and review text on a realistic, causally modelled dataset.
 	-Used Logistic Regression and XGBoost to uncover the main reasons behind customer attrition.
