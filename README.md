@@ -17,19 +17,19 @@ I'm a passionate tech enthusiast with a love for building innovative solutions t
 
 
 ## My Projects & Achievements
-Projects
+### Projects
 - **Churn360-Ecommounication: A Multimodal Explainable AI Framework for E-commerce Customer Churn Prediction**
-	- **Designed an AI solution to predict which customers are likely to leave by analysing purchase behaviour and review text on a realistic, causally modelled dataset.**
-	- **Used Logistic Regression and XGBoost to uncover the main reasons behind customer attrition.**
-	- **Applied DiCE counterfactuals, SHAP, and LIME to make insights clear and actionable for non-technical teams.**
-	- **Extended beyond prediction to analyse counterfactual scenarios (e.g., impact of offering discounts) for targeted retention strategies.**
-	- **Built an interactive Streamlit dashboard so marketing teams can see churn risk, key drivers, and recommended actions at a glance.**
+	- Designed an AI solution to predict which customers are likely to leave by analysing purchase behaviour and review text on a realistic, causally modelled dataset.
+	- Used Logistic Regression and XGBoost to uncover the main reasons behind customer attrition.
+	- Applied DiCE counterfactuals, SHAP, and LIME to make insights clear and actionable for non-technical teams.
+	- Extended beyond prediction to analyse counterfactual scenarios (e.g., impact of offering discounts) for targeted retention strategies.
+	- Built an interactive Streamlit dashboard so marketing teams can see churn risk, key drivers, and recommended actions at a glance.
 
 - **Research Assistant: Scientific Journal Parser**
-	- **Developed an AI-powered parser using PyPDF, CSVLoader, and LangChain to process and analyse research PDFs.**
-	- **Extracted text, tables, charts, and images into structured ChromaDB storage for retrieval.**
-	- **Implemented an RAG(Nomic Embedding) + LLM (llama3) chatbot to answer complex, multi-document research queries, including visual data interpretation.**
-	- **Built a Streamlit frontend supporting multi-project article organisation, conversational querying, and analytics.**
+	- Developed an AI-powered parser using PyPDF, CSVLoader, and LangChain to process and analyse research PDFs.
+	- Extracted text, tables, charts, and images into structured ChromaDB storage for retrieval.
+	- Implemented an RAG(Nomic Embedding) + LLM (llama3) chatbot to answer complex, multi-document research queries, including visual data interpretation.
+	- Built a Streamlit frontend supporting multi-project article organisation, conversational querying, and analytics.
 
 ### Professional Highlights
 - **Automation Wizardry:** Automated OS patching for 296 servers using Ansible, improving efficiency and saving countless hours of manual work.
